@@ -14,4 +14,3 @@ ttt
 g
 ss
 gg
-ssss
